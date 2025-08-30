@@ -1,0 +1,3 @@
+Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,HeartDisease
+40,M,Atypical angina,140,289,0,Normal,172,No,0,Up,0
+49,F,Non_Anginal Pain,160,180,0,Normal,156,No,1,Flat,1
